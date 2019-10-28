@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StatusLayoutTest</string>
+
+    <!-- 页面状态 -->
+    <string name="hint_status_empty">暂时没有数据</string>
+    <string name="hint_status_error">加载失败</string>
+    <string name="hint_status_no_network">网络异常</string>
+    <string name="button_error_retry">点击重试</string>
+</resources>
